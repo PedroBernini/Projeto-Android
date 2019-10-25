@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BiografiaFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/nome_biografia"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/imagem_biografia"
+            android:layout_width="300dp"
+            android:layout_marginTop="5dp"
+            android:layout_gravity="center"
+            android:layout_height="300dp" />
+
+        <TextView
+            android:id="@+id/descricao_biografia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textStyle="italic"
+            android:textAlignment="center"
+            android:maxLines="3"
+            android:ellipsize="end"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/botao_voltar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="VOLTAR" />
+
+            <Button
+                android:id="@+id/botao_avancar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AVANÇAR" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</FrameLayout>
