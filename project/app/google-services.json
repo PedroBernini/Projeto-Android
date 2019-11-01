@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980606465151",
+    "firebase_url": "https://aulafirebase-38b8e.firebaseio.com",
+    "project_id": "aulafirebase-38b8e",
+    "storage_bucket": "aulafirebase-38b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980606465151:android:05cf15b476bef264ecbb4a",
+        "android_client_info": {
+          "package_name": "b194832_p204575.ft.unicamp.br.atividade01_fragmentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980606465151-lj6gtghabuc2vdjngbeqdq6brk4b0uek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "b194832_p204575.ft.unicamp.br.atividade01_fragmentos",
+            "certificate_hash": "27a01531d09614cca2537ed9ea1929180b23c0ee"
+          }
+        },
+        {
+          "client_id": "980606465151-7edv7riu1clien772d20mi3cv79775l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOafP4zZ_BXVX3v676Wjzm77WYfMLaCs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980606465151-7edv7riu1clien772d20mi3cv79775l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

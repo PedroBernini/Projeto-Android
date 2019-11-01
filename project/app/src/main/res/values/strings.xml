@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Fragmentos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Atividade 01</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_stats">Estatistica</string>
+    <string name="action_contato">Contato</string>
+
+    <string name="menu_autores">Autores</string>
+    <string name="menu_alunos">Alunos</string>
+    <string name="menu_biografias">Biografias</string>
+    <string name="menu_jogo1">Jogo 1</string>
+    <string name="menu_jogo2">Jogo 2</string>
+    <string name="menu_jogo3">Jogo 3</string>
+    <string name="menu_banco_de_dados">Banco de Dados</string>
+    <string name="menu_internet">Internet</string>
+
+
+    <!-- TODO: fragment_my_first -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="to_label">Para: </string>
+    <string name="to_hint">Destinatários</string>
+    <string name="message">Escreva a Mensagem Aqui</string>
+    <string name="send">Enviar</string>
+    <string name="login1">Login:</string>
+    <string name="login2">Digite seu login</string>
+    <string name="senha1">Senha:</string>
+    <string name="senha2">Digite sua senha</string>
+    <string name="assunto1">Assunto:</string>
+    <string name="assunto2">Entre com o assunto</string>
+
+    <array name="grid_options">
+        <item>Rodrigo</item>
+        <item>Gislaine</item>
+    </array>
+    <string name="title_activity_kotlin">KotlinActivity</string>
+
+    <string-array name="rest_requests">
+        <item>GET</item>
+        <item>PUT</item>
+        <item>POST</item>
+        <item>PATCH</item>
+    </string-array>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
