@@ -1,2 +1,2 @@
-# Projeto-Android
-Projeto com atividades semanais para a disciplina de Dispositivos Móveis
+# Android_APP
+Projeto de um aplicativo em sistema operacional Android
